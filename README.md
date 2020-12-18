@@ -1,7 +1,5 @@
 # Payments Page Challenge
 
-[Click here to view Published Page](https://amfirebaugh.github.io/PaymentsChallenge/).
-
 ## Summary
 Overall this challenge is great because I haven't worked on any front-end development in almost 2 years. It is exciting to see my growth as a developer while brushing up on these skills and catching up with all the new updates to these frameworks and technologies.
 
