@@ -7,7 +7,7 @@ const Styles = styled.div`
     font-size: 1.25rem;
     color: #466e84;
     &:hover {
-      color: #4f758b;
+      color: #2b79a5;
     }
   }
   align-items: center;

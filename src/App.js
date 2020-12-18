@@ -11,7 +11,7 @@ class App extends Component {
         <MyNavbar />
         <Router>
           <Switch>
-            <Route exact path="/" component={Payments} />
+            <Route exact path="/index" component={Payments} />
             <Route component={ErrorPage} />
           </Switch>
         </Router>
